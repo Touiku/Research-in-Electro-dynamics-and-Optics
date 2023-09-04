@@ -1,2 +1,3 @@
-# Undergraduate_Research
-These are my undergraduate research in fields of Theoretical Physics
+# Research in Electro-dynamics and Optics
+Using the mathematical method of Green k-functions, I solve Maxwell equations in the absence of electric sources or currents. Furthermore, I
+achieve an elliptic partial differential equation with respect to scattering amplenitude Asc. I show that the scattering amplitude can be inserted into the calculation of the differential scattering cross section dσ dΩ, where σ and Ω represent the total cross section and solid angle, respectively. Finally, I introduce the attenuation coefficient ℓ by the integration of the differential scattering cross-section, which leads to the Rayleigh scattering theorem eventually.
